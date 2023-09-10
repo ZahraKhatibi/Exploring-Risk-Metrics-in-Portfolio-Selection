@@ -1,6 +1,6 @@
 # Exploring Risk Metrics in Portfolio Selection
 This project explores various risk measurement methods in the context of portfolio selection for stocks from Tehran's stock market. The goal is to build efficient portfolios using different risk metrics. This README provides an overview of the project and its main components.
-This project was completed collaboratively by me and my colleague, [**Mahyar Mohammadi Matin**]((https://mahyarmohammadi.top/)), as research project of our Nonlinear Programming course.
+This project was completed collaboratively by me and my colleague, [**Mahyar Mohammadi Matin**](https://mahyarmohammadi.top/), as research project of our Nonlinear Programming course.
 
 <img src="pic.png" alt="Image Description" width="800"/>
 
